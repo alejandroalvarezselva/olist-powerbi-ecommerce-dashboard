@@ -1,3 +1,9 @@
+## Dashboard de Análisis de E-Commerce (Olist)
+
+Proyecto de análisis desarrollado en Power BI a partir del dataset público de Olist (e-commerce brasileño).
+El objetivo es analizar ventas, logística (SLA) y experiencia de cliente mediante un modelo en estrella y métricas DAX defendibles.
+
+
 ## Archivo Power BI
 
 El informe completo de Power BI (`.pbix`) puede descargarse desde el siguiente enlace:
