@@ -12,19 +12,19 @@ El archivo Power BI completo está disponible aquí:
 ## 📊 Capturas del dashboard
 
 ### Executive Overview
-![Executive Overview](screenshots/01-Executive Overview.png)
+![Executive Overview](screenshots/01-Executive-Overview.png)
 
 ### Sales Performance
-![Sales Performance](screenshots/02-Sales Performance.png)
+![Sales Performance](screenshots/02-Sales-Performance.png)
 
 ### Logistics & SLA
-![Logistics & SLA](screenshots/03-Logistics & SLA.png)
+![Logistics & SLA](screenshots/03-Logistics-SLA.png)
 
 ### Customer Experience
-![Customer Experience](screenshots/04-Customer Experience.png)
+![Customer Experience](screenshots/04-Customer-Experience.png)
 
 ## 🧩 Modelo de datos
-![Data Model](screenshots/05-Data model.png)
+![Data Model](screenshots/05-Data-model.png)
 
 
 ## 📂 Estructura del repositorio
