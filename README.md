@@ -9,7 +9,7 @@ El archivo Power BI completo está disponible aquí:
 
 > Nota: el archivo debe abrirse con **Power BI Desktop**.
 
-## 🖼️ Capturas del dashboard
+## 📊 Capturas del dashboard
 
 ### Executive Overview
 ![Executive Overview](screenshots/01-Executive Overview.png)
@@ -25,6 +25,7 @@ El archivo Power BI completo está disponible aquí:
 
 ## 🧩 Modelo de datos
 ![Data Model](screenshots/05-Data model.png)
+
 
 ## 📂 Estructura del repositorio
 - `powerbi/` → enlace de descarga del `.pbix` y detalle del entregable
